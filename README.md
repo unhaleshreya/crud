@@ -2,6 +2,7 @@
 
 This project demonstrates basic **CRUD (Create, Read, Update, Delete)** functionality using PHP, MySQL, HTML, CSS, and JavaScript.
 
+
 ## Features
 - Add new records (Create)
 - View all records in a table (Read)
